@@ -92,7 +92,7 @@ export default class TodoList extends React.Component {
           returnKeyType="done"
           returnKeyLabel="done"
           placeholderTextColor= "#ccc"
-        />
+          />
         </View>
     );
   }
